@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.postimg.cc/kG2p1BVp/Whats-App-Image-2026-06-30-at-2-16-28-AM.jpg" alt="Asateer Green Banner" width="100%" style="border-radius: 8px;" />
+  <img src="https://i.postimg.cc/mDCHYgC6/watermarked-img-17509932763468523464.png" alt="Asateer Green Banner" width="100%" style="border-radius: 8px;" />
 </p>
 
 # <p align="center">🟢 مؤسسة أساطير خضراء للتصنيع الإعلاني 🌟</p>
