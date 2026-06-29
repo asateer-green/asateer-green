@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://postimg.cc/8FQj2Fpn" alt="Asateer Green Banner" width="100%" style="border-radius: 8px;" />
+  <img src="[https://postimg.cc/8FQj2Fpn](https://i.postimg.cc/zf3KRW95/Gemini-Generated-Image-hepnf6hepnf6hepn.png)" alt="Asateer Green Banner" width="100%" style="border-radius: 8px;" />
 </p>
 
 # <p align="center">🟢 مؤسسة أساطير خضراء للتصنيع الإعلاني 🌟</p>
